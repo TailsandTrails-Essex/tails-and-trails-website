@@ -3,8 +3,7 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: 'Tails & Trails | Pet Sitting & Dog Walking in Essex',
-  description:
-    'Dog walking, pet sitting, and daycare for all animals across Essex. Book trusted care from Tails & Trails.',
+  description: 'Professional pet sitting, dog walking, and daycare services for all animals in Essex. Book with us today.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
